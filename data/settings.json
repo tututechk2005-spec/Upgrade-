@@ -1,0 +1,7 @@
+{
+  "scan_interval": 60,
+  "maintenance": false,
+  "welcome_message": "",
+  "channel_id": "",
+  "channel_enabled": false
+}
